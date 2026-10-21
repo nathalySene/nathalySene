@@ -18,54 +18,57 @@
 
 ```yaml
 name: Nathaly Sene
-education:
-  - Técnica em Desenvolvimento de Sistemas | ETEC
-  - Análise e Desenvolvimento de Sistemas | FIAP
-focus:
-  - Full Stack Development
-  - IT Infrastructure
-  - Cloud Computing
-  - Software Engineering
-philosophy: "Turning complexity into simplicity."
+age: 18
+journey: >
+  Minha trajetória em tecnologia começou na ETEC,
+  com formação técnica em Desenvolvimento de Sistemas.
+  Atualmente, curso ADS na FIAP e atuo na área de TI,
+  adquirindo experiência em infraestrutura, suporte
+  e desenvolvimento de soluções.
+focus: "Full Stack Development | Infrastructure | Cloud"
+philosophy: "Beyond the syntax."
 ```
+
+---
 
 ### `> tech_stack`
 
 <div align="center">
 
-**Development**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=cs,php,python,c,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,php,python,c,js,ts,html,css,java&theme=dark" />
 
-**Databases & Tools**
+**Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,react,nodejs,bootstrap,tailwind,vue,express&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
 
 **Infrastructure & Cloud**
 
 <img src="https://skillicons.dev/icons?i=windows,linux,azure,aws,docker,powershell&theme=dark" />
 
-</div>
+**Tools & Development Environment**
 
----
-
-### `> github_analytics`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathalySene&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=FFFFFF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalySene&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,githubactions&theme=dark" />
 
 </div>
 
 ---
 
-### `> contribution_activity`
+### `> professional_expertise`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nathalySene&bg_color=0d1117&color=bd93f9&line=9b59b6&point=ffffff&area=true&hide_border=true" width="95%" />
+![Active Directory](https://img.shields.io/badge/Active_Directory-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![IT Support](https://img.shields.io/badge/IT_Support-432371?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-6C3483?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-512BD4?style=for-the-badge)
 
 </div>
 
@@ -80,4 +83,3 @@ philosophy: "Turning complexity into simplicity."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,100:0d1117&height=110&section=footer" width="100%" />
 
 </div>
-
