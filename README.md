@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:432371,100:9b59b6&height=210&section=header&text=Nathaly%20Sene&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IT%20Infrastructure&descAlignY=58&descSize=16" width="100%" />
 
-### `Beyond the syntax. ⌘`
+### `Beyond the syntax. `
 
 **Desenvolvedora Full Stack | TI & Infraestrutura**
 
@@ -32,9 +32,9 @@ Meu interesse também se estende ao desenvolvimento Full Stack, à computação 
 
 <img src="https://skillicons.dev/icons?i=php,cs,c,python,html,css,js&theme=dark" />
 
-**Frameworks**
+**Frameworks & Runtime**
 
-<img src="https://skillicons.dev/icons?i=laravel,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,react,nodejs&theme=dark" />
 
 **Databases**
 
